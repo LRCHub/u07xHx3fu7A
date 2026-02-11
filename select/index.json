@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢見る少女じゃいられない 〜夢見ル少年〜 (Live At Tokyo Dome City Hall / 2022)",
+  "base_artist": "ヒルクライム",
+  "createdAt": "2026-02-11T04:21:05.733667Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢見る少女じゃいられない ～夢見ル少年～",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_夢見る少女じゃいられない_~夢見ル少年~_Hilcrhyme.txt"
+    }
+  ]
+}
